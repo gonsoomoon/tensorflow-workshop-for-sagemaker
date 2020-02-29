@@ -2,3 +2,4 @@
  This is for a guide to use tensorflow in AWS SageMaker
  
 [First Notebook] 
+[Update by Console Git Command]
